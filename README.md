@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there I am Bhagyashree
 
 
-**Bshankre/Bshankre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I have completed my Btech in sharnbasva University with the cgpa of 9.2
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m have completed internship on software development at Visist.Ai
+  where I have gained practical project experience which is great experience to me where I have learn't how to collaborate with teamates and learn't how to deal with github.
 - 🌱 I’m currently learning ...
+    Java Full Stack in Jspider's
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+  
 - 💬 Ask me about ...
+  
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- LinkedIn  
+
+
   
