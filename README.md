@@ -6,12 +6,12 @@
 
 ## 🚀 Skills & Technologies
 - **Frontend:** ReactJS, HTML, CSS, JavaScript
-- **Backend:** Java, Spring Boot
+- **Backend:** Java,JDBC, Hibernate, Spring
 - **Database:** MySQL
 - **Version Control:** Git, GitHub
 
 ## 📫 Connect with Me
-- **LinkedIn:** linkedin.com/in/bhagyashree-b-0a8a98220
+- **LinkedIn:** www.linkedin.com/in/bhagyashree-b-0a8a98220
 - **GitHub:** https://github.com/Bshankre
 
 ✨ Always eager to learn and contribute to exciting projects!
