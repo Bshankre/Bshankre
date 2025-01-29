@@ -1,17 +1,17 @@
-## Hi there I am Bhagyashree
+## 👩‍💻 About Me
+- 🎓 **B.Tech Graduate** from Sharnbasva University with a **CGPA of 9.2**.
+- 🛠️ **Software Development Intern** at Visist.Ai, where I gained hands-on project experience, collaborated with teammates, and improved my GitHub workflow.
+- 📚 Currently learning **Java Full Stack** at JSpiders.
+- 💡 Passionate about software development, problem-solving, and continuous learning.
 
+## 🚀 Skills & Technologies
+- **Frontend:** ReactJS, HTML, CSS, JavaScript
+- **Backend:** Java, Spring Boot
+- **Database:** MySQL
+- **Version Control:** Git, GitHub
 
-**I have completed my Btech in sharnbasva University with the cgpa of 9.2
+## 📫 Connect with Me
+- **LinkedIn:** linkedin.com/in/bhagyashree-b-0a8a98220
+- **GitHub:** https://github.com/Bshankre
 
-Here are some ideas to get you started:
-
-- 🔭 I’m have completed internship on software development at Visist.Ai
-  where I have gained practical project experience which is great experience to me where I have learn't how to collaborate with teamates and learn't how to deal with github.
-- 🌱 I’m currently learning ...
-    Java Full Stack in Jspider's
-  
-- 📫 How to reach me: ...
-- LinkedIn  
-
-
-  
+✨ Always eager to learn and contribute to exciting projects!
